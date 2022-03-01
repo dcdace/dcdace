@@ -1,5 +1,3 @@
-
-
 <!--
 **dcdace/dcdace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,19 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- ### Hi there, I am Dace, a Cognitive Neuroscientist & System Analyst. -->
+ ### Cognitive Neuroscientist | System Analyst
+# Dace Apšvalka
 
 
 
-[![Personal Site](https://img.shields.io/badge/Personal_Site-teal?style=for-the-badge)](https://dcdace.net/)
-[![Google Scholar](https://img.shields.io/badge/Google-Scholar-yellow?style=for-the-badge)](https://scholar.google.com/citations?hl=en&user=W8q0HBkAAAAJ&view_op=list_works&sortby=pubdate)
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/dcdace.svg?style=for-the-badge&label=@dcdace)](https://twitter.com/dcdace)
+[![Personal Site](https://img.shields.io/badge/website-teal?style=for-the-badge&logo=About.me&logoColor=white)](https://dcdace.net/)
+[![Google Scholar](https://img.shields.io/badge/Scholar-yellow?style=for-the-badge&logo=googlescholar&logoColor=ffffff)](https://scholar.google.com/citations?hl=en&user=W8q0HBkAAAAJ&view_op=list_works&sortby=pubdate)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/dcdace)
+[![Linkedin](https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/dace-apsvalka/)
 
-[![Dace's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcdace&theme=calm&hide=prs,issues?count_private=true&show_icons=true&&hide_rank=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Dace's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcdace&theme=dracula&hide=prs,issues?count_private=true&show_icons=true&hide_rank=true&include_all_commits=true&hide_title=false&custom_title=GitHub+Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcdace&langs_count=10&theme=nord&layout=compact" alt="Rémi :: Top Langs" /></p>
 
+[![wakatime](https://wakatime.com/badge/user/6e7556d3-b1db-4eef-a7e8-9bad735fc27e.svg)](https://wakatime.com/@6e7556d3-b1db-4eef-a7e8-9bad735fc27e)
 
-<!-- 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dcdace)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dcdace&theme=react&v=2)](https://github.com/anuraghazra/github-readme-stats)
