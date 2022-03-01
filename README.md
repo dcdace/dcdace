@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/dcdace)
 [![Linkedin](https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/dace-apsvalka/)
 
-[![Dace's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcdace&theme=dracula&hide=prs,issues?count_private=true&show_icons=true&hide_rank=true&include_all_commits=true&hide_title=false&custom_title=GitHub+Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Dace's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dcdace&langs_count=10&theme=nord&layout=compact)]() 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcdace&langs_count=10&theme=nord&layout=compact" alt="Rémi :: Top Langs" /></p>
-
+[![Dace's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcdace&theme=dracula&hide=prs,issues&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true&hide_title=false&custom_title=GitHub+Stats)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 
 [![wakatime](https://wakatime.com/badge/user/6e7556d3-b1db-4eef-a7e8-9bad735fc27e.svg)](https://wakatime.com/@6e7556d3-b1db-4eef-a7e8-9bad735fc27e)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dcdace&theme=react&v=2)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dcdace&theme=react&v=2)](https://github.com/anuraghazra/github-readme-stats) -->
