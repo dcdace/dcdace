@@ -16,8 +16,6 @@
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dcdace&theme=react&layout=compact&custom_title=Coding+past+7+days&v=2)](https://wakatime.com/@6e7556d3-b1db-4eef-a7e8-9bad735fc27e "Recorded coding time in the past 7 days")
  ### Some more coding stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2036%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -75,5 +73,5 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/03/2022 09:18:23 UTC
+ Last Updated on 27/03/2022 01:00:04 UTC
 <!--END_SECTION:waka-->
