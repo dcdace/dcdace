@@ -3,7 +3,7 @@ name: WakaTime Stats
 on:
   schedule:
     # Runs every 24 hours
-    - cron: '0 */24 * * *'
+    - cron: '8 */24 * * *'
   workflow_dispatch:
 
 jobs:
