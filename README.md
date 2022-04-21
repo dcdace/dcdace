@@ -13,7 +13,7 @@
 [![Dace's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dcdace&langs_count=10&theme=nord&layout=compact)]() 
 [![Dace's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcdace&theme=dracula&hide=prs,issues&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true&hide_title=false&custom_title=GitHub+Stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dcdace&theme=react&layout=compact&custom_title=Coding+past+7+days&v=2)](https://wakatime.com/@6e7556d3-b1db-4eef-a7e8-9bad735fc27e "Recorded coding time in the past 7 days")
+<!-- [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dcdace&theme=react&layout=compact&custom_title=Coding+past+7+days&v=2)](https://wakatime.com/@6e7556d3-b1db-4eef-a7e8-9bad735fc27e "Recorded coding time in the past 7 days") -->
  ### Some more coding stats
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-35%20Thousand%20lines%20of%20code-blue)
