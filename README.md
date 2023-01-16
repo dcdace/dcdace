@@ -10,7 +10,7 @@
 [![twitter](https://img.shields.io/twitter/follow/dcdace?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/dcdace "Twitter followers")
 [![wakatime](https://wakatime.com/badge/user/6e7556d3-b1db-4eef-a7e8-9bad735fc27e.svg?style=plastic?v=2)](https://wakatime.com/@6e7556d3-b1db-4eef-a7e8-9bad735fc27e "Total time coded since Feb 28 2022")
 
-[![Dace's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dcdace&langs_count=10&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![Dace's languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dcdace&langs_count=10&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
