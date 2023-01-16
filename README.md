@@ -12,6 +12,8 @@
 
 [![Dace's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dcdace&langs_count=10&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
+[![Dace's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dcdace&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Dace's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcdace&theme=dracula&hide=prs,issues&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true&hide_title=false&custom_title=GitHub+Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Dace's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dcdace&theme=react&layout=compact&custom_title=Coding+past+7+days&v=2)](https://github.com/dcdace/dcdace)
