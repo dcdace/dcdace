@@ -16,6 +16,5 @@
 [![Dace's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dcdace&theme=react&layout=compact&custom_title=Coding+past+7+days&v=2)](https://github.com/dcdace/dcdace)
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
