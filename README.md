@@ -16,5 +16,15 @@
 [![Dace's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dcdace&theme=react&layout=compact&custom_title=Coding+past+7+days&v=2)](https://github.com/dcdace/dcdace)
 
 <!--START_SECTION:waka-->
+
+```text
+Bash               1 hr 5 mins     █████████▓░░░░░░░░░░░░░░░   38.13 %
+Markdown           45 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.25 %
+Git Config         27 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.17 %
+JSON               15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
+Python             15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
+Jupyter Notebook   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+```
+
 <!--END_SECTION:waka-->
 
