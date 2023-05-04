@@ -19,7 +19,7 @@
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%2030%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-746.8%20thousand%20lines%20of%20code-blue)
 
@@ -48,13 +48,14 @@ Sunday                   99 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   53 mins             █████████████████████████   98.14 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  54 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    54 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -69,6 +70,6 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/05/2023 01:38:23 UTC
+ Last Updated on 04/05/2023 01:35:59 UTC
 <!--END_SECTION:waka-->
 
