@@ -7,9 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/dace-apsvalka/)
 
 [![Dace's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dcdace&theme=react&layout=compact&custom_title=Coding+past+7+days&v=2)](https://github.com/dcdace/dcdace)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dcdace)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
 [![github](https://img.shields.io/github/followers/dcdace?logo=github&style=plastic)](https://github.com/dcdace?tab=followers "GitHub followers")
 [![wakatime](https://wakatime.com/badge/user/6e7556d3-b1db-4eef-a7e8-9bad735fc27e.svg?style=plastic?v=2)](https://wakatime.com/@6e7556d3-b1db-4eef-a7e8-9bad735fc27e "Total time coded since Feb 28 2022")
 
