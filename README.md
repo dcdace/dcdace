@@ -20,7 +20,7 @@
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-746.9%20thousand%20lines%20of%20code-blue)
 
@@ -49,13 +49,16 @@ Sunday                   99 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     8 mins              █████████████████████░░░░   85.12 % 
+Jupyter Notebook         1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+MATLAB                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -70,6 +73,6 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/07/2023 02:04:29 UTC
+ Last Updated on 15/07/2023 02:02:28 UTC
 <!--END_SECTION:waka-->
 
