@@ -8,7 +8,7 @@
 
 <!--
 [![Dace's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dcdace&theme=react&layout=compact&custom_title=Coding+past+7+days&v=2)](https://github.com/dcdace/dcdace)
--->
+
 
 [![github](https://img.shields.io/github/followers/dcdace?logo=github&style=plastic)](https://github.com/dcdace?tab=followers "GitHub followers")
 [![wakatime](https://wakatime.com/badge/user/6e7556d3-b1db-4eef-a7e8-9bad735fc27e.svg?style=plastic?v=2)](https://wakatime.com/@6e7556d3-b1db-4eef-a7e8-9bad735fc27e "Total time coded since Feb 28 2022")
