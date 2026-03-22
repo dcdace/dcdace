@@ -24,23 +24,23 @@
 
 ```text
 💬 Programming Languages: 
-MATLAB                   4 hrs 8 mins        ███████████░░░░░░░░░░░░░░   44.32 % 
-Python                   4 hrs 6 mins        ███████████░░░░░░░░░░░░░░   43.94 % 
-Text                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-HTML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Python                   5 hrs 20 mins       █████████████░░░░░░░░░░░░   51.28 % 
+MATLAB                   4 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   39.04 % 
+Text                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+HTML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 54 mins       ██████████████████░░░░░░░   73.76 % 
-MATLABR2020b             2 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-Obsidian                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+VS Code                  7 hrs 32 mins       ██████████████████░░░░░░░   72.44 % 
+MATLABR2020b             2 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+Obsidian                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 💻 Operating System: 
-Linux                    6 hrs 54 mins       ██████████████████░░░░░░░   73.76 % 
-Windows                  2 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   26.24 % 
+Linux                    7 hrs 32 mins       ██████████████████░░░░░░░   72.44 % 
+Windows                  2 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.56 % 
 ```
 
 
- Last Updated on 21/03/2026 02:43:39 UTC
+ Last Updated on 22/03/2026 00:52:47 UTC
 <!--END_SECTION:waka-->
 
