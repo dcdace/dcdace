@@ -24,18 +24,18 @@
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 3 mins        █████████████████████████   98.62 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Python                   3 hrs 52 mins       ████████████████████████░   94.08 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 6 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 52 mins       ████████████████████████░   94.08 % 
+Windows                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 ```
 
 
- Last Updated on 07/04/2026 00:55:38 UTC
+ Last Updated on 08/04/2026 00:55:38 UTC
 <!--END_SECTION:waka-->
 
