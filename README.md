@@ -20,7 +20,21 @@
 -->
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 15/05/2026 01:08:45 UTC
+```text
+💬 Programming Languages: 
+HTML                     23 mins             ██████████████░░░░░░░░░░░   56.70 % 
+Python                   17 mins             ███████████░░░░░░░░░░░░░░   43.30 % 
+
+🔥 Editors: 
+VS Code                  40 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    40 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 16/05/2026 01:04:31 UTC
 <!--END_SECTION:waka-->
 
