@@ -20,7 +20,26 @@
 -->
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 29/05/2026 01:17:40 UTC
+```text
+💬 Programming Languages: 
+Python                   4 hrs 32 mins       ████████████████████░░░░░   79.91 % 
+Other                    45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+
+🔥 Editors: 
+VS Code                  5 hrs 39 mins       █████████████████████████   99.61 % 
+Obsidian                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+
+💻 Operating System: 
+Linux                    5 hrs 39 mins       █████████████████████████   99.61 % 
+Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+```
+
+
+ Last Updated on 30/05/2026 01:12:34 UTC
 <!--END_SECTION:waka-->
 
