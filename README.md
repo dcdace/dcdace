@@ -24,20 +24,19 @@
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 34 mins       ███████████████████░░░░░░   75.51 % 
-MATLAB                   1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
+MATLAB                   43 mins             █████████████████████████   99.88 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 34 mins       ███████████████████░░░░░░   75.41 % 
-MATLABR2020b             1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+MATLABR2020b             43 mins             █████████████████████████   99.88 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Linux                    3 hrs 34 mins       ███████████████████░░░░░░   75.41 % 
-Windows                  1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+Windows                  43 mins             █████████████████████████   99.88 % 
+Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
 
- Last Updated on 12/06/2026 01:23:52 UTC
+ Last Updated on 13/06/2026 01:22:00 UTC
 <!--END_SECTION:waka-->
 
