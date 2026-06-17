@@ -24,19 +24,16 @@
 
 ```text
 💬 Programming Languages: 
-MATLAB                   43 mins             █████████████████████████   99.88 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-MATLABR2020b             43 mins             █████████████████████████   99.88 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  43 mins             █████████████████████████   99.88 % 
-Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 16/06/2026 01:27:54 UTC
+ Last Updated on 17/06/2026 01:25:29 UTC
 <!--END_SECTION:waka-->
 
