@@ -24,23 +24,23 @@
 
 ```text
 💬 Programming Languages: 
-MATLAB                   7 hrs 11 mins       ██████████████░░░░░░░░░░░   56.22 % 
-Python                   5 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   41.17 % 
-Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+MATLAB                   6 hrs 37 mins       █████████████░░░░░░░░░░░░   50.46 % 
+Python                   6 hrs 10 mins       ████████████░░░░░░░░░░░░░   46.99 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 2 mins       ████████████████████░░░░░   78.45 % 
-MATLABR2020b             2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-github-copilot           19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+VS Code                  10 hrs 30 mins      ████████████████████░░░░░   79.98 % 
+MATLABR2020b             2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+github-copilot           19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 
 💻 Operating System: 
-Linux                    10 hrs 2 mins       ████████████████████░░░░░   78.45 % 
-Windows                  2 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+Linux                    10 hrs 30 mins      ████████████████████░░░░░   79.98 % 
+Windows                  2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
 ```
 
 
- Last Updated on 08/07/2026 03:36:30 UTC
+ Last Updated on 09/07/2026 04:06:43 UTC
 <!--END_SECTION:waka-->
 
