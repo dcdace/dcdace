@@ -24,20 +24,17 @@
 
 ```text
 💬 Programming Languages: 
-Python                   54 mins             █████████████░░░░░░░░░░░░   50.91 % 
-MATLAB                   47 mins             ███████████░░░░░░░░░░░░░░   44.29 % 
-Todotxt                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+Todotxt                  5 mins              ██████████████████████░░░   88.85 % 
+Python                   0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
 
 🔥 Editors: 
-VS Code                  1 hr 29 mins        █████████████████████░░░░   83.61 % 
-MATLABR2020b             17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    1 hr 29 mins        █████████████████████░░░░   83.61 % 
-Windows                  17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Linux                    5 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/07/2026 03:29:11 UTC
+ Last Updated on 17/07/2026 03:30:44 UTC
 <!--END_SECTION:waka-->
 
