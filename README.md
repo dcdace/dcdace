@@ -20,21 +20,23 @@
 -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2017%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Text                     33 mins             ██████████████░░░░░░░░░░░   57.14 % 
-Python                   12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-Other                    12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+Text                     2 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   33.83 % 
+Python                   2 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   31.91 % 
+Other                    1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Markdown                 1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Bash                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 
 🔥 Editors: 
-VS Code                  58 mins             █████████████████████████   100.00 % 
+VS Code                  7 hrs 50 mins       ████████████████████████░   96.55 % 
+Obsidian                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
 💻 Operating System: 
-Linux                    58 mins             █████████████████████████   100.00 % 
+Linux                    7 hrs 50 mins       ████████████████████████░   96.55 % 
+Windows                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -44,6 +46,6 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 28/07/2026 03:27:16 UTC
+ Last Updated on 29/07/2026 03:29:31 UTC
 <!--END_SECTION:waka-->
 
