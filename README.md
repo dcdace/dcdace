@@ -26,28 +26,42 @@
 
 ```text
 💬 Programming Languages: 
-Text                     2 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   34.63 % 
-Python                   2 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   30.31 % 
-Other                    1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Markdown                 1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Bash                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Text                     2 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   33.16 % 
+Python                   2 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   30.92 % 
+Other                    1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Markdown                 1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Bash                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 39 mins       ████████████████████████░   96.47 % 
-Obsidian                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+VS Code                  7 hrs 24 mins       ████████████████████████░   96.26 % 
+Obsidian                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 
 💻 Operating System: 
-Linux                    7 hrs 39 mins       ████████████████████████░   96.47 % 
-Windows                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Linux                    7 hrs 24 mins       ████████████████████████░   96.26 % 
+Windows                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 0 secs (0.1%)
+
+✍️ 0 lines written by AI, 12,245 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 0 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 0 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/08/2026 03:43:21 UTC
+ Last Updated on 02/08/2026 03:44:21 UTC
 <!--END_SECTION:waka-->
 
