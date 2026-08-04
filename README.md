@@ -26,42 +26,28 @@
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   33.22 % 
-Text                     2 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   30.75 % 
-Markdown                 1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Other                    1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Bash                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Python                   1 hr 47 mins        ██████████████░░░░░░░░░░░   57.67 % 
+Markdown                 40 mins             █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+Other                    18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Text                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 52 mins       ████████████████████████░   95.98 % 
-Obsidian                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+VS Code                  2 hrs 49 mins       ███████████████████████░░   90.95 % 
+Obsidian                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
 
 💻 Operating System: 
-Linux                    6 hrs 52 mins       ████████████████████████░   95.98 % 
-Windows                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Linux                    2 hrs 49 mins       ███████████████████████░░   90.95 % 
+Windows                  16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (0.1%)
-
-✍️ 0 lines written by AI, 11,855 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 0 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 0 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 03/08/2026 03:46:39 UTC
+ Last Updated on 04/08/2026 03:29:46 UTC
 <!--END_SECTION:waka-->
 
