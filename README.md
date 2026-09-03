@@ -20,40 +20,40 @@
 -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2054%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-MATLAB                   1 hr 56 mins        ███████████░░░░░░░░░░░░░░   42.73 % 
-Python                   1 hr 25 mins        ████████░░░░░░░░░░░░░░░░░   31.54 % 
-Markdown                 44 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Python                   2 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   36.89 % 
+MATLAB                   2 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   34.89 % 
+Markdown                 48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Bash                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 17 mins       █████████████░░░░░░░░░░░░   50.61 % 
-MATLABR2020b             1 hr 25 mins        ████████░░░░░░░░░░░░░░░░░   31.29 % 
-Obsidian                 49 mins             █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+VS Code                  3 hrs 33 mins       ███████████████░░░░░░░░░░   60.81 % 
+MATLABR2020b             1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
+Obsidian                 50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
 
 💻 Operating System: 
-Linux                    2 hrs 17 mins       █████████████░░░░░░░░░░░░   50.61 % 
-Windows                  2 hrs 14 mins       ████████████░░░░░░░░░░░░░   49.39 % 
+Linux                    3 hrs 33 mins       ███████████████░░░░░░░░░░   60.81 % 
+Windows                  2 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   39.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 mins (13.4%)
+⏱ AI Coding Time: 37 mins (10.64%)
 
-✍️ 0 lines written by AI, 62 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 456 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 0 AI Prompts
+🧠 3 AI Sessions, 0 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
@@ -63,6 +63,6 @@ Windows                  2 hrs 14 mins       ███████████�
 ```
 
 
- Last Updated on 02/09/2026 04:19:14 UTC
+ Last Updated on 03/09/2026 04:13:31 UTC
 <!--END_SECTION:waka-->
 
