@@ -26,28 +26,28 @@
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 10 mins       ████████████░░░░░░░░░░░░░   46.20 % 
-MATLAB                   2 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
-Bash                     57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Python                   5 hrs 29 mins       █████████████░░░░░░░░░░░░   50.54 % 
+MATLAB                   2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Bash                     1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 37 mins       ██████████████████░░░░░░░   73.47 % 
-MATLABR2020b             1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-Obsidian                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+VS Code                  8 hrs 43 mins       ████████████████████░░░░░   80.21 % 
+MATLABR2020b             1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Obsidian                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
 
 💻 Operating System: 
-Linux                    6 hrs 37 mins       ██████████████████░░░░░░░   73.47 % 
-Windows                  2 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   26.53 % 
+Linux                    8 hrs 43 mins       ████████████████████░░░░░   80.21 % 
+Windows                  2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 mins (6.95%)
+⏱ AI Coding Time: 37 mins (5.76%)
 
-✍️ 0 lines written by AI, 764 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 823 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -63,6 +63,6 @@ Windows                  2 hrs 23 mins       ███████░░░░�
 ```
 
 
- Last Updated on 04/09/2026 04:20:24 UTC
+ Last Updated on 05/09/2026 04:15:52 UTC
 <!--END_SECTION:waka-->
 
