@@ -26,34 +26,34 @@
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 29 mins       █████████████░░░░░░░░░░░░   50.54 % 
-MATLAB                   2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-Bash                     1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Python                   5 hrs 27 mins       ███████████████░░░░░░░░░░   58.26 % 
+Bash                     1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+MATLAB                   1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 43 mins       ████████████████████░░░░░   80.21 % 
-MATLABR2020b             1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Obsidian                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+VS Code                  8 hrs 13 mins       ██████████████████████░░░   87.90 % 
+MATLABR2020b             52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Obsidian                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 💻 Operating System: 
-Linux                    8 hrs 43 mins       ████████████████████░░░░░   80.21 % 
-Windows                  2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+Linux                    8 hrs 13 mins       ██████████████████████░░░   87.90 % 
+Windows                  1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 mins (5.76%)
+⏱ AI Coding Time: 18 mins (3.35%)
 
-✍️ 0 lines written by AI, 823 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 810 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 0 AI Prompts
+🧠 2 AI Sessions, 0 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
@@ -63,6 +63,6 @@ Windows                  2 hrs 9 mins        █████░░░░░░�
 ```
 
 
- Last Updated on 07/09/2026 04:24:29 UTC
+ Last Updated on 08/09/2026 04:24:17 UTC
 <!--END_SECTION:waka-->
 
