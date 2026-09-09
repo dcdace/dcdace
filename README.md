@@ -26,43 +26,29 @@
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 27 mins       ███████████████░░░░░░░░░░   58.26 % 
-Bash                     1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-MATLAB                   1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Python                   4 hrs 55 mins       ████████████████░░░░░░░░░   62.34 % 
+Bash                     1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+MATLAB                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 13 mins       ██████████████████████░░░   87.90 % 
-MATLABR2020b             52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Obsidian                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+VS Code                  7 hrs 34 mins       ████████████████████████░   95.77 % 
+MATLABR2020b             18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Obsidian                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Linux                    8 hrs 13 mins       ██████████████████████░░░   87.90 % 
-Windows                  1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Linux                    7 hrs 34 mins       ████████████████████████░   95.77 % 
+Windows                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 mins (3.35%)
-
-✍️ 0 lines written by AI, 810 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 0 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 0 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 08/09/2026 04:24:17 UTC
+ Last Updated on 09/09/2026 04:29:38 UTC
 <!--END_SECTION:waka-->
 
