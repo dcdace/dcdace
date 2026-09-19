@@ -26,19 +26,19 @@
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 21 mins        ████████████████░░░░░░░░░   64.07 % 
-Other                    26 mins             █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Python                   1 hr 47 mins        █████████████████░░░░░░░░   68.44 % 
+Other                    26 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+Markdown                 16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🔥 Editors: 
-VS Code                  1 hr 54 mins        ███████████████████████░░   90.32 % 
-Obsidian                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+VS Code                  2 hrs 20 mins       ██████████████████████░░░   89.62 % 
+Obsidian                 16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
 
 💻 Operating System: 
-Linux                    1 hr 54 mins        ███████████████████████░░   90.32 % 
-Windows                  12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Linux                    2 hrs 20 mins       ██████████████████████░░░   89.62 % 
+Windows                  16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -48,6 +48,6 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 18/09/2026 04:32:05 UTC
+ Last Updated on 19/09/2026 04:28:50 UTC
 <!--END_SECTION:waka-->
 
