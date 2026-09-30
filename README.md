@@ -26,18 +26,18 @@
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 53 mins        ██████████████████░░░░░░░   70.20 % 
-Markdown                 42 mins             ███████░░░░░░░░░░░░░░░░░░   26.44 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Markdown                 56 mins             ████████████░░░░░░░░░░░░░   47.52 % 
+Python                   51 mins             ███████████░░░░░░░░░░░░░░   42.75 % 
+JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+MATLAB                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 🔥 Editors: 
-VS Code                  1 hr 58 mins        ██████████████████░░░░░░░   73.56 % 
-Obsidian                 42 mins             ███████░░░░░░░░░░░░░░░░░░   26.44 % 
+VS Code                  1 hr 2 mins         █████████████░░░░░░░░░░░░   52.48 % 
+Obsidian                 56 mins             ████████████░░░░░░░░░░░░░   47.52 % 
 
 💻 Operating System: 
-Linux                    1 hr 58 mins        ██████████████████░░░░░░░   73.56 % 
-Windows                  42 mins             ███████░░░░░░░░░░░░░░░░░░   26.44 % 
+Linux                    1 hr 2 mins         █████████████░░░░░░░░░░░░   52.48 % 
+Windows                  56 mins             ████████████░░░░░░░░░░░░░   47.52 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -47,6 +47,6 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 29/09/2026 05:34:59 UTC
+ Last Updated on 30/09/2026 05:23:09 UTC
 <!--END_SECTION:waka-->
 
