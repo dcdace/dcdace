@@ -20,34 +20,48 @@
 -->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%207%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 10 mins        █████████░░░░░░░░░░░░░░░░   36.01 % 
-Python                   58 mins             ████████░░░░░░░░░░░░░░░░░   30.13 % 
-JSON                     34 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-Text                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Python                   2 hrs 54 mins       ██████████████░░░░░░░░░░░   54.91 % 
+Markdown                 1 hr 14 mins        ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
+JSON                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Text                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 4 mins        ████████████████░░░░░░░░░   63.99 % 
-Obsidian                 1 hr 10 mins        █████████░░░░░░░░░░░░░░░░   36.01 % 
+VS Code                  4 hrs 2 mins        ███████████████████░░░░░░   76.44 % 
+Obsidian                 1 hr 14 mins        ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
 
 💻 Operating System: 
-Linux                    2 hrs 4 mins        ████████████████░░░░░░░░░   63.99 % 
-Windows                  1 hr 10 mins        █████████░░░░░░░░░░░░░░░░   36.01 % 
+Linux                    4 hrs 2 mins        ███████████████████░░░░░░   76.44 % 
+Windows                  1 hr 14 mins        ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 13 mins (4.13%)
+
+✍️ 0 lines written by AI, 324 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 0 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 0 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/10/2026 05:39:55 UTC
+ Last Updated on 02/10/2026 05:24:56 UTC
 <!--END_SECTION:waka-->
 
