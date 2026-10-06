@@ -26,27 +26,27 @@
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 50 mins       ██████████████░░░░░░░░░░░   57.96 % 
-Markdown                 1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
-JSON                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Text                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Python                   3 hrs 45 mins       ████████████████░░░░░░░░░   63.35 % 
+Markdown                 1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+JSON                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Text                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 59 mins       ███████████████████░░░░░░   75.14 % 
-Obsidian                 1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+VS Code                  4 hrs 50 mins       ████████████████████░░░░░   81.47 % 
+Obsidian                 1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
 
 💻 Operating System: 
-Linux                    4 hrs 59 mins       ███████████████████░░░░░░   75.14 % 
-Windows                  1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+Linux                    4 hrs 50 mins       ████████████████████░░░░░   81.47 % 
+Windows                  1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (3.29%)
+⏱ AI Coding Time: 13 mins (3.68%)
 
-✍️ 0 lines written by AI, 381 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 328 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -62,6 +62,6 @@ Windows                  1 hr 38 mins        ██████░░░░░�
 ```
 
 
- Last Updated on 05/10/2026 05:25:11 UTC
+ Last Updated on 06/10/2026 06:10:09 UTC
 <!--END_SECTION:waka-->
 
