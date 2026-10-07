@@ -26,33 +26,33 @@
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 45 mins       ████████████████░░░░░░░░░   63.35 % 
-Markdown                 1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-JSON                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-Text                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Python                   3 hrs 40 mins       ████████████████░░░░░░░░░   64.94 % 
+Markdown                 59 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+Text                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 50 mins       ████████████████████░░░░░   81.47 % 
-Obsidian                 1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+VS Code                  4 hrs 36 mins       ████████████████████░░░░░   81.42 % 
+Obsidian                 1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
 
 💻 Operating System: 
-Linux                    4 hrs 50 mins       ████████████████████░░░░░   81.47 % 
-Windows                  1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+Linux                    4 hrs 36 mins       ████████████████████░░░░░   81.42 % 
+Windows                  1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (3.68%)
+⏱ AI Coding Time: 17 mins (5.09%)
 
-✍️ 0 lines written by AI, 328 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 335 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 0 AI Prompts
+🧠 2 AI Sessions, 0 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
@@ -62,6 +62,6 @@ Windows                  1 hr 6 mins         █████░░░░░░�
 ```
 
 
- Last Updated on 06/10/2026 06:10:09 UTC
+ Last Updated on 07/10/2026 05:45:14 UTC
 <!--END_SECTION:waka-->
 
