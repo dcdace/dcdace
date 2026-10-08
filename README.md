@@ -26,42 +26,26 @@
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 40 mins       ████████████████░░░░░░░░░   64.94 % 
-Markdown                 59 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-Text                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Python                   2 hrs 55 mins       ████████████████████░░░░░   78.36 % 
+Markdown                 45 mins             █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 36 mins       ████████████████████░░░░░   81.42 % 
-Obsidian                 1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+VS Code                  2 hrs 57 mins       ████████████████████░░░░░   79.51 % 
+Obsidian                 45 mins             █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
 
 💻 Operating System: 
-Linux                    4 hrs 36 mins       ████████████████████░░░░░   81.42 % 
-Windows                  1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+Linux                    2 hrs 57 mins       ████████████████████░░░░░   79.51 % 
+Windows                  45 mins             █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 mins (5.09%)
-
-✍️ 0 lines written by AI, 335 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 0 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 0 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 07/10/2026 05:45:14 UTC
+ Last Updated on 08/10/2026 05:51:57 UTC
 <!--END_SECTION:waka-->
 
