@@ -26,25 +26,42 @@
 
 ```text
 💬 Programming Languages: 
-Python                   56 mins             ███████████████░░░░░░░░░░   58.40 % 
-Markdown                 40 mins             ██████████░░░░░░░░░░░░░░░   41.60 % 
+Python                   1 hr 31 mins        ██████████████████░░░░░░░   71.99 % 
+Markdown                 27 mins             █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 
 🔥 Editors: 
-VS Code                  56 mins             ███████████████░░░░░░░░░░   58.40 % 
-Obsidian                 40 mins             ██████████░░░░░░░░░░░░░░░   41.60 % 
+VS Code                  1 hr 31 mins        ██████████████████░░░░░░░   71.99 % 
+Obsidian                 35 mins             ███████░░░░░░░░░░░░░░░░░░   28.01 % 
 
 💻 Operating System: 
-Linux                    56 mins             ███████████████░░░░░░░░░░   58.40 % 
-Windows                  40 mins             ██████████░░░░░░░░░░░░░░░   41.60 % 
+Linux                    1 hr 31 mins        ██████████████████░░░░░░░   71.99 % 
+Windows                  35 mins             ███████░░░░░░░░░░░░░░░░░░   28.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 19 mins (15.33%)
+
+✍️ 0 lines written by AI, 70 lines written by hand (0.0% AI-written)
+
+🔤 117,442 Input Tokens, 6,064 Output Tokens
+
+💵 $0.44 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 4 AI Prompts
+
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 443 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/10/2026 05:57:41 UTC
+ Last Updated on 10/10/2026 05:40:22 UTC
 <!--END_SECTION:waka-->
 
