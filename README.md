@@ -26,25 +26,27 @@
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 31 mins        ██████████████████░░░░░░░   71.99 % 
-Markdown                 27 mins             █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Python                   2 hrs 33 mins       ███████████████████░░░░░░   77.79 % 
+Markdown                 32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-VS Code                  1 hr 31 mins        ██████████████████░░░░░░░   71.99 % 
-Obsidian                 35 mins             ███████░░░░░░░░░░░░░░░░░░   28.01 % 
+VS Code                  2 hrs 36 mins       ████████████████████░░░░░   79.63 % 
+Obsidian                 40 mins             █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
 
 💻 Operating System: 
-Linux                    1 hr 31 mins        ██████████████████░░░░░░░   71.99 % 
-Windows                  35 mins             ███████░░░░░░░░░░░░░░░░░░   28.01 % 
+Linux                    2 hrs 36 mins       ████████████████████░░░░░   79.63 % 
+Windows                  40 mins             █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 mins (15.33%)
+⏱ AI Coding Time: 19 mins (9.87%)
 
-✍️ 0 lines written by AI, 70 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 111 lines written by hand (0.0% AI-written)
 
 🔤 117,442 Input Tokens, 6,064 Output Tokens
 
@@ -62,6 +64,6 @@ Github-Copilot           0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 12/10/2026 05:45:44 UTC
+ Last Updated on 13/10/2026 06:40:24 UTC
 <!--END_SECTION:waka-->
 
