@@ -26,44 +26,28 @@
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 33 mins       ████████████████████░░░░░   80.73 % 
-Markdown                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Python                   1 hr 1 min          ██████████████████████░░░   88.28 % 
+Markdown                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 36 mins       █████████████████████░░░░   82.64 % 
-Obsidian                 32 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+VS Code                  56 mins             ████████████████████░░░░░   80.81 % 
+Obsidian                 13 mins             █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
 
 💻 Operating System: 
-Linux                    2 hrs 36 mins       █████████████████████░░░░   82.64 % 
-Windows                  32 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Linux                    1 hr 5 mins         ███████████████████████░░   93.44 % 
+Windows                  4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 mins (10.24%)
-
-✍️ 0 lines written by AI, 102 lines written by hand (0.0% AI-written)
-
-🔤 117,442 Input Tokens, 6,064 Output Tokens
-
-💵 $0.44 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 4 AI Prompts
-
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 443 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 16/10/2026 04:20:11 UTC
+ Last Updated on 17/10/2026 04:12:51 UTC
 <!--END_SECTION:waka-->
 
